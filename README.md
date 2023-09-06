@@ -1,2 +1,10 @@
-Hi, I am Uli, I am a computer science major at whitman college.
-I like to dabble in all kinds of different programming topics and ideas. 
+<h1 align="center"> Hello There, my name is Uli </h1>
+
+- Currently a junior in college majoring in Computer Sciece
+- Currently working on [MCL](https://github.com/UlizesR/MCL) which is a C library to allow for basic app development in macOS
+- I like doing low level programming focusing a lot on graphics and embeded system programming.
+
+
+<a href="https://github.com/UlizesR/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ulizesr&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+</a>
