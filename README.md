@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There, my name is Uli </h1>
 
-- Currently a junior in college majoring in Computer Sciece and minoring in Mathematics
+- Currently a junior in college doing a double major in Computer Science and Mathematics with a minor in Physics.
 - Currently working on [MCL](https://github.com/UlizesR/MCL) which is a C library to allow for basic app development in macOS
 - I like doing low level programming focusing a lot on graphics.
 - I like to do numerical computation as well as computational sciences (physics, astronomy, chemistry)
