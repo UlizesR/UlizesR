@@ -2,32 +2,19 @@
 
 <p align="center">A junior in college pursuing a triple major in Computer Science, Mathematics, and Physics.</p>
 
+### Introduction
+Welcome to my GitHub profile! I'm passionate about exploring the intersections of computer science, mathematics, and physics through programming and visualization.
+
 ### About Me
-- 🌱 Currently exploring low-level programming and computer graphics.
+- 🌱 Currently exploring low-level programming, quantum computing, and computer graphics.
 - ✨ Passionate about creating visualizations for mathematical and physical concepts.
 - 🎨 Enjoy sketching, writing, and playing the piano in my spare time.
 
-### My Interests in Each Major
-
-#### Computer Science
-- System level programming
-- Computer graphics
-- Numerical computation
-
-#### Mathematics
-- Topology and Manifolds
-- Differential Geometry
-- Computational mathematics
-
-#### Physics
-- Classical and Quantum Field Theory
-- Computational Physics
-- Quantum computing
-
 ### Projects
-- 🖥️ Currently working on a Raylib-based graphics library utilizing Apple's Metal API for high-performance rendering.
-- 🔬 Experimenting with Quantum programming in Python and Q# to explore quantum algorithms and simulations.
-- 📊 Developing algorithms and tools for data visualization and analysis in various scientific domains.
+- 🖥️ **MGL**: Currently working on a Raylib-based graphics library utilizing Apple's Metal API for high-performance rendering.
+- 🔬 **Quantum Playground**: Experimenting with Quantum programming in Python and Q# to explore quantum algorithms and simulations. 
+- 📊 **GDSC Projects**: Leading two developer teams as a tech lead in my GDSC club. One focusing on Game dev and the other on working on motion capture software.
+- 📚 **Research Assistant**: Currently a research assistant for my advisor where I work on water simulation of the local Mill creek and fish energetics to see the effects of the Mill Creek water flow on Salmonoid migration.
 
 ### GitHub Stats
 <a href="https://github.com/UlizesR/">
