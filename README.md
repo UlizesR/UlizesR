@@ -25,11 +25,3 @@ I enjoy working on projects that combine my interests, such as developing educat
 <a href="https://github.com/UlizesR/">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlizesR&layout=compact&theme=algolia" alt="Uli's Top Languages" />
 </a>
-
----
-
-### Let's Connect!
-- **LinkedIn:** [Uli's LinkedIn](https://www.linkedin.com/in/uli-profile/)
-- **Personal Website:** [Uli's Portfolio](https://ulizesr.github.io/)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
