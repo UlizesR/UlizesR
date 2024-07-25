@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hello There! I'm Uli</h1>
 
 <p align="center">A senior in college pursuing a triple major in Computer Science, Mathematics, and Physics.</p>
-
-<p align="center">Passionate about bridging the gap between theory and application in the realms of Computational Physics, Mathematics, and Computer Science.</p>
-
 ---
 
 ### About Me
