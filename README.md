@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello There! I'm Uli</h1>
 
-<p align="center">A senior in college pursuing a triple major in Computer Science, Mathematics, and Physics.</p>
-
----
+# <p align="center">A senior in college pursuing a triple major in Computer Science, Mathematics, and Physics.</p>
 
 ### About Me
 
